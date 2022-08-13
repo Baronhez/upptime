@@ -17,6 +17,8 @@ sites:
     url: https://speed.jonthan.xyz
   - name: Torrent webUI
     url: https://torrent.jonthan.xyz
+  - name: Actual
+    url: https://actual.jonthan.xyz
     
 
 status-website:
