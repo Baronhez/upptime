@@ -4,10 +4,10 @@
     "url": "https://jonthan.xyz",
     "icon": "https://favicons.githubusercontent.com/jonthan.xyz",
     "slug": "personal-web-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1024,
@@ -15,7 +15,9 @@
     "timeWeek": 985,
     "timeMonth": 1024,
     "timeYear": 1024,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-02": 1
+    }
   },
   {
     "name": "Filebrowser in Server",
@@ -76,9 +78,9 @@
     "url": "https://server.jonthan.xyz",
     "icon": "https://favicons.githubusercontent.com/server.jonthan.xyz",
     "slug": "dashboard-home-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +89,9 @@
     "timeWeek": 1335,
     "timeMonth": 991,
     "timeYear": 991,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-02": 0
+    }
   },
   {
     "name": "Internet Speed in my server",
