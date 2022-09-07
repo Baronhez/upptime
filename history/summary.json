@@ -10,11 +10,11 @@
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 995,
-    "timeDay": 787,
-    "timeWeek": 898,
-    "timeMonth": 995,
-    "timeYear": 995,
+    "time": 989,
+    "timeDay": 821,
+    "timeWeek": 900,
+    "timeMonth": 989,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2022-09-02": 69
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 973,
-    "timeDay": 729,
-    "timeWeek": 866,
-    "timeMonth": 973,
-    "timeYear": 973,
+    "time": 969,
+    "timeDay": 848,
+    "timeWeek": 875,
+    "timeMonth": 969,
+    "timeYear": 969,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 421,
-    "timeWeek": 517,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "time": 588,
+    "timeDay": 478,
+    "timeWeek": 518,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 935,
-    "timeDay": 628,
+    "time": 926,
+    "timeDay": 655,
     "timeWeek": 715,
-    "timeMonth": 935,
-    "timeYear": 935,
+    "timeMonth": 926,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2022-09-02": 69
     }
@@ -117,18 +117,19 @@
     "icon": "https://favicons.githubusercontent.com/torrent.jonthan.xyz",
     "slug": "torrent-web-ui",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 579,
-    "timeWeek": 548,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "uptime": "98.70%",
+    "uptimeDay": "68.60%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
+    "time": 711,
+    "timeDay": 533,
+    "timeWeek": 545,
+    "timeMonth": 711,
+    "timeYear": 711,
     "dailyMinutesDown": {
-      "2022-09-06": 0
+      "2022-09-07": 132,
+      "2022-09-06": 321
     }
   },
   {
@@ -142,11 +143,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 449,
-    "timeWeek": 522,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "time": 589,
+    "timeDay": 458,
+    "timeWeek": 510,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {}
   }
 ]
