@@ -11,11 +11,11 @@ sites:
     url: https://linkding.jonthan.xyz
   - name: Dashboard Server
     url: https://flame.jonthan.xyz
-  - name: Dashboard Home Server
-    url: https://server.jonthan.xyz
+  - name: Personal Blog
+    url: https://baronhez.github.io
   - name: Internet Speed in my server
     url: https://speed.jonthan.xyz
-  - name: Torrent webUI
+  - name: QBitTorrent webUI
     url: https://torrent.jonthan.xyz
   - name: Actual
     url: https://actual.jonthan.xyz
