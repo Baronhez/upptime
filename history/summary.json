@@ -11,8 +11,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 934,
-    "timeDay": 882,
-    "timeWeek": 2357,
+    "timeDay": 858,
+    "timeWeek": 1293,
     "timeMonth": 1347,
     "timeYear": 934,
     "dailyMinutesDown": {
@@ -47,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkding.jonthan.xyz.ico",
     "slug": "bookmark-manager",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
-    "time": 949,
-    "timeDay": 1182,
-    "timeWeek": 939,
-    "timeMonth": 939,
-    "timeYear": 949,
+    "uptimeYear": "99.77%",
+    "time": 951,
+    "timeDay": 1212,
+    "timeWeek": 938,
+    "timeMonth": 940,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2022-09-14": 495
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 568,
-    "timeDay": 691,
-    "timeWeek": 547,
+    "time": 569,
+    "timeDay": 698,
+    "timeWeek": 545,
     "timeMonth": 554,
-    "timeYear": 568,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2022-09-17": 17,
       "2022-09-14": 468
@@ -94,8 +94,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 25,
-    "timeWeek": 59,
+    "timeDay": 113,
+    "timeWeek": 57,
     "timeMonth": 103,
     "timeYear": 89,
     "dailyMinutesDown": {}
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 695,
-    "timeWeek": 553,
+    "time": 572,
+    "timeDay": 715,
+    "timeWeek": 557,
     "timeMonth": 575,
-    "timeYear": 571,
+    "timeYear": 572,
     "dailyMinutesDown": {}
   },
   {
@@ -149,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 573,
-    "timeDay": 701,
+    "time": 574,
+    "timeDay": 705,
     "timeWeek": 561,
-    "timeMonth": 568,
-    "timeYear": 573,
+    "timeMonth": 569,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2022-09-14": 468
     }
