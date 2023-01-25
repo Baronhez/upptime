@@ -4,11 +4,11 @@
     "url": "https://jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jonthan.xyz.ico",
     "slug": "personal-web-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 1136,
     "timeDay": 13744,
@@ -16,7 +16,7 @@
     "timeMonth": 2357,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
+      "2023-01-25": 2,
       "2023-01-05": 21,
       "2022-09-17": 62,
       "2022-09-02": 69
@@ -47,10 +47,10 @@
     "url": "https://linkding.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/linkding.jonthan.xyz.ico",
     "slug": "bookmark-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 957,
@@ -59,6 +59,7 @@
     "timeMonth": 986,
     "timeYear": 957,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2022-09-14": 495
     }
   },
@@ -67,18 +68,19 @@
     "url": "https://flame.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.79%",
     "time": 573,
     "timeDay": 686,
     "timeWeek": 604,
     "timeMonth": 590,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-09-17": 17,
       "2022-09-14": 468
     }
@@ -108,9 +110,9 @@
     "slug": "internet-speed-in-my-server",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 0,
     "timeDay": 0,
@@ -118,7 +120,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
       "2022-09-14": 468
     }
   },
@@ -129,18 +130,16 @@
     "slug": "q-bit-torrent-web-ui",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
     "timeDay": 3803,
     "timeWeek": 1658,
     "timeMonth": 881,
     "timeYear": 650,
-    "dailyMinutesDown": {
-      "2023-01-25": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Actual",
