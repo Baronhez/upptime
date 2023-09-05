@@ -16,7 +16,7 @@ sites:
   - name: Internet Speed in my server
     url: https://speed.jonthan.xyz
   - name: QBitTorrent webUI
-    url: https://torrent.jonthan.xyz
+    url: https://qbittorrent.local.jonthan.xyz
   - name: Actual
     url: https://actual.jonthan.xyz
  
