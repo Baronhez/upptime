@@ -4,11 +4,11 @@
     "url": "https://jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jonthan.xyz.ico",
     "slug": "personal-web-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.54%",
     "time": 897,
     "timeDay": 744,
@@ -16,6 +16,7 @@
     "timeMonth": 709,
     "timeYear": 898,
     "dailyMinutesDown": {
+      "2023-10-10": 3,
       "2023-09-06": 1247,
       "2023-09-05": 614,
       "2023-03-28": 492,
@@ -28,11 +29,11 @@
     "url": "https://files.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/files.jonthan.xyz.ico",
     "slug": "filebrowser-in-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.91%",
     "time": 0,
     "timeDay": 0,
@@ -40,6 +41,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2023-10-10": 2,
       "2023-03-28": 492
     }
   },
@@ -48,10 +50,10 @@
     "url": "https://linkding.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/linkding.jonthan.xyz.ico",
     "slug": "bookmark-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 979,
@@ -60,6 +62,7 @@
     "timeMonth": 982,
     "timeYear": 981,
     "dailyMinutesDown": {
+      "2023-10-10": 2,
       "2023-03-28": 524,
       "2023-01-25": 40
     }
@@ -69,10 +72,10 @@
     "url": "https://flame.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 599,
@@ -81,6 +84,7 @@
     "timeMonth": 583,
     "timeYear": 603,
     "dailyMinutesDown": {
+      "2023-10-10": 1,
       "2023-03-28": 492,
       "2023-01-25": 22
     }
@@ -108,10 +112,10 @@
     "url": "https://speed.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/speed.jonthan.xyz.ico",
     "slug": "internet-speed-in-my-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 0,
@@ -120,6 +124,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2023-10-10": 1,
       "2023-03-28": 492,
       "2023-01-25": 32
     }
@@ -130,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.local.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
     "status": "up",
-    "uptime": "57.43%",
+    "uptime": "57.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.57%",
@@ -314,9 +319,9 @@
     "url": "https://actual.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/actual.jonthan.xyz.ico",
     "slug": "actual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -326,6 +331,7 @@
     "timeMonth": 584,
     "timeYear": 590,
     "dailyMinutesDown": {
+      "2023-10-10": 0,
       "2023-03-28": 492
     }
   }
