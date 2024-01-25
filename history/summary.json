@@ -10,17 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 801,
-    "timeDay": 124,
+    "time": 800,
+    "timeDay": 53,
     "timeWeek": 130,
-    "timeMonth": 98,
-    "timeYear": 759,
+    "timeMonth": 99,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2023-12-16": 25,
       "2023-09-06": 1247,
       "2023-09-05": 614,
-      "2023-03-28": 492,
-      "2023-01-25": 41
+      "2023-03-28": 492
     }
   },
   {
@@ -55,13 +54,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 970,
-    "timeDay": 916,
-    "timeWeek": 998,
-    "timeMonth": 938,
-    "timeYear": 976,
+    "timeDay": 744,
+    "timeWeek": 993,
+    "timeMonth": 939,
+    "timeYear": 975,
     "dailyMinutesDown": {
-      "2023-03-28": 524,
-      "2023-01-25": 40
+      "2023-03-28": 524
     }
   },
   {
@@ -76,13 +74,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 592,
-    "timeDay": 583,
-    "timeWeek": 590,
-    "timeMonth": 552,
+    "timeDay": 541,
+    "timeWeek": 603,
+    "timeMonth": 555,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2023-03-28": 492,
-      "2023-01-25": 22
+      "2023-03-28": 492
     }
   },
   {
@@ -97,10 +94,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 66,
-    "timeWeek": 126,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "timeDay": 74,
+    "timeWeek": 127,
+    "timeMonth": 102,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   },
   {
@@ -120,8 +117,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-28": 492,
-      "2023-01-25": 32
+      "2023-03-28": 492
     }
   },
   {
@@ -130,15 +126,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.local.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
     "status": "up",
-    "uptime": "64.08%",
+    "uptime": "64.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "51.75%",
     "time": 620,
-    "timeDay": 596,
-    "timeWeek": 649,
-    "timeMonth": 640,
+    "timeDay": 698,
+    "timeWeek": 676,
+    "timeMonth": 646,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2023-12-07": 21,
@@ -338,9 +334,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 584,
-    "timeDay": 513,
-    "timeWeek": 595,
-    "timeMonth": 560,
+    "timeDay": 450,
+    "timeWeek": 596,
+    "timeMonth": 558,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2023-03-28": 492
