@@ -29,9 +29,9 @@
     "slug": "filebrowser-in-server",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "47.62%",
-    "uptimeWeek": "92.52%",
-    "uptimeMonth": "98.28%",
+    "uptimeDay": "46.72%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.76%",
     "time": 0,
     "timeDay": 0,
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-13": 658,
+      "2024-02-13": 671,
       "2024-02-12": 97,
       "2023-03-28": 492
     }
@@ -51,17 +51,17 @@
     "slug": "bookmark-manager",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "47.62%",
-    "uptimeWeek": "92.52%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "99.76%",
+    "uptimeDay": "46.72%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "99.75%",
     "time": 967,
     "timeDay": 0,
     "timeWeek": 912,
     "timeMonth": 905,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2024-02-13": 658,
+      "2024-02-13": 671,
       "2024-02-12": 97,
       "2023-03-28": 524
     }
@@ -73,9 +73,9 @@
     "slug": "dashboard-server",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "47.62%",
-    "uptimeWeek": "92.52%",
-    "uptimeMonth": "98.28%",
+    "uptimeDay": "46.72%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.76%",
     "time": 591,
     "timeDay": 0,
@@ -83,7 +83,7 @@
     "timeMonth": 551,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-02-13": 658,
+      "2024-02-13": 671,
       "2024-02-12": 97,
       "2023-03-28": 492
     }
@@ -113,9 +113,9 @@
     "slug": "internet-speed-in-my-server",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "47.62%",
-    "uptimeWeek": "92.52%",
-    "uptimeMonth": "98.28%",
+    "uptimeDay": "46.72%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.76%",
     "time": 0,
     "timeDay": 0,
@@ -123,7 +123,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-13": 658,
+      "2024-02-13": 671,
       "2024-02-12": 97,
       "2023-03-28": 492
     }
@@ -133,11 +133,11 @@
     "url": "https://qbittorrent.local.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.local.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
-    "status": "down",
+    "status": "up",
     "uptime": "65.49%",
-    "uptimeDay": "91.48%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "51.71%",
     "time": 617,
     "timeDay": 603,
@@ -145,7 +145,7 @@
     "timeMonth": 610,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2024-02-13": 75,
+      "2024-02-13": 88,
       "2024-02-12": 111,
       "2024-02-01": 24,
       "2023-12-07": 21,
@@ -340,9 +340,9 @@
     "slug": "actual",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "47.62%",
-    "uptimeWeek": "92.52%",
-    "uptimeMonth": "98.28%",
+    "uptimeDay": "46.72%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.76%",
     "time": 581,
     "timeDay": 0,
@@ -350,7 +350,7 @@
     "timeMonth": 540,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2024-02-13": 658,
+      "2024-02-13": 671,
       "2024-02-12": 96,
       "2023-03-28": 492
     }
