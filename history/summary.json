@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-27": 990,
+      "2024-03-27": 1007,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -184,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-27": 990,
+      "2024-03-27": 1007,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
@@ -236,14 +236,14 @@
     "url": "https://qbittorrent.local.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.local.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "95.17%",
+    "uptimeDay": "95.15%",
     "uptimeWeek": "92.46%",
-    "uptimeMonth": "81.63%",
+    "uptimeMonth": "81.69%",
     "uptimeYear": "98.47%",
     "time": 613,
-    "timeDay": 561,
+    "timeDay": 559,
     "timeWeek": 595,
     "timeMonth": 607,
     "timeYear": 611,
@@ -275,7 +275,7 @@
       "2024-03-03": 106,
       "2024-03-02": 104,
       "2024-03-01": 133,
-      "2024-02-29": 181
+      "2024-02-29": 153
     }
   },
   {
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2024-03-27": 990,
+      "2024-03-27": 1007,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
