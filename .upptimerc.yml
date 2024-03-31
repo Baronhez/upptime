@@ -17,8 +17,6 @@ sites:
     url: https://speed.jonthan.xyz
   - name: QBitTorrent webUI
     url: https://qbittorrent.local.jonthan.xyz
-  - name: Actual
-    url: https://actual.jonthan.xyz
  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
