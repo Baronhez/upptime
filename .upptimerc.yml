@@ -5,16 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Personal WebPage
     url: https://jonthan.xyz
-  - name: Filebrowser in Server
-    url: https://files.jonthan.xyz
   - name: Bookmark Manager
     url: https://linkding.jonthan.xyz
   - name: Dashboard Server
     url: https://flame.jonthan.xyz
   - name: Personal Blog
-    url: https://baronhez.github.io
-  - name: Internet Speed in my server
-    url: https://speed.jonthan.xyz
+    url: https://blog.jonthan.xyz
   - name: QBitTorrent webUI
     url: https://qbittorrent.local.jonthan.xyz
  
