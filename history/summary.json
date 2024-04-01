@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.jonthan.xyz.ico",
     "slug": "filebrowser-in-server",
     "status": "down",
-    "uptime": "91.80%",
+    "uptime": "91.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 251,
+      "2024-04-01": 287,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-01": 252,
+      "2024-04-01": 287,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -246,14 +246,14 @@
     "url": "https://qbittorrent.local.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.local.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "93.50%",
-    "uptimeWeek": "90.83%",
-    "uptimeMonth": "81.90%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "90.82%",
+    "uptimeMonth": "82.12%",
+    "uptimeYear": "98.51%",
     "time": 608,
-    "timeDay": 564,
+    "timeDay": 562,
     "timeWeek": 577,
     "timeMonth": 596,
     "timeYear": 606,
@@ -285,8 +285,7 @@
       "2024-03-08": 106,
       "2024-03-07": 150,
       "2024-03-06": 39,
-      "2024-03-05": 156,
-      "2024-03-04": 5
+      "2024-03-05": 66
     }
   }
 ]
