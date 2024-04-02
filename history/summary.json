@@ -55,12 +55,12 @@
     "status": "up",
     "uptime": "98.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "87.84%",
     "uptimeYear": "96.98%",
     "time": 636,
     "timeDay": 565,
-    "timeWeek": 666,
+    "timeWeek": 672,
     "timeMonth": 733,
     "timeYear": 630,
     "dailyMinutesDown": {
@@ -110,17 +110,17 @@
     "slug": "q-bit-torrent-web-ui",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "82.19%",
-    "uptimeYear": "98.52%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "91.63%",
+    "uptimeMonth": "82.11%",
+    "uptimeYear": "98.51%",
     "time": 609,
     "timeDay": 581,
     "timeWeek": 562,
     "timeMonth": 594,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2024-04-01": 129,
+      "2024-04-01": 123,
       "2024-03-31": 134,
       "2024-03-30": 120,
       "2024-03-29": 124,
@@ -145,7 +145,7 @@
       "2024-03-10": 115,
       "2024-03-09": 123,
       "2024-03-08": 106,
-      "2024-03-07": 107
+      "2024-03-07": 150
     }
   }
 ]
