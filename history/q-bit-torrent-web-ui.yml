@@ -1,7 +1,7 @@
 url: https://qbittorrent.local.jonthan.xyz
-status: up
-code: 200
-responseTime: 717
-lastUpdated: 2024-04-05T12:58:41.246Z
+status: down
+code: 502
+responseTime: 475
+lastUpdated: 2024-04-05T13:30:59.389Z
 startTime: 2022-09-20T17:18:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
