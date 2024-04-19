@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.43%",
@@ -111,14 +111,14 @@
     "url": "https://qbittorrent.local.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.local.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "91.10%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "91.32%",
     "uptimeWeek": "89.28%",
-    "uptimeMonth": "93.39%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "99.47%",
     "time": 608,
-    "timeDay": 624,
+    "timeDay": 623,
     "timeWeek": 627,
     "timeMonth": 595,
     "timeYear": 606,
@@ -147,8 +147,7 @@
       "2024-03-29": 124,
       "2024-03-28": 193,
       "2024-03-27": 73,
-      "2024-03-26": 143,
-      "2024-03-25": 4
+      "2024-03-26": 50
     }
   }
 ]
