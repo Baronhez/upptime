@@ -54,9 +54,9 @@
     "slug": "dashboard-server",
     "status": "up",
     "uptime": "95.40%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "95.18%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "95.21%",
     "uptimeYear": "91.71%",
     "time": 644,
     "timeDay": 556,
@@ -64,7 +64,7 @@
     "timeMonth": 663,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2024-06-16": 28,
+      "2024-06-16": 15,
       "2024-06-13": 18,
       "2024-06-08": 17,
       "2024-06-07": 16,
@@ -143,14 +143,14 @@
     "url": "https://qbittorrent.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
-    "status": "up",
-    "uptime": "91.79%",
-    "uptimeDay": "83.53%",
-    "uptimeWeek": "42.77%",
-    "uptimeMonth": "7.94%",
+    "status": "down",
+    "uptime": "91.80%",
+    "uptimeDay": "83.52%",
+    "uptimeWeek": "42.84%",
+    "uptimeMonth": "7.95%",
     "uptimeYear": "85.72%",
     "time": 605,
-    "timeDay": 607,
+    "timeDay": 604,
     "timeWeek": 580,
     "timeMonth": 579,
     "timeYear": 606,
@@ -227,7 +227,7 @@
       "2024-04-08": 55,
       "2024-04-07": 20,
       "2024-04-06": 15,
-      "2024-04-05": 37
+      "2024-04-05": 22
     }
   }
 ]
