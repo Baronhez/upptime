@@ -145,14 +145,14 @@
     "url": "https://qbittorrent.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "91.92%",
-    "uptimeDay": "87.59%",
+    "uptimeDay": "87.64%",
     "uptimeWeek": "90.32%",
-    "uptimeMonth": "27.41%",
+    "uptimeMonth": "27.43%",
     "uptimeYear": "85.79%",
-    "time": 603,
-    "timeDay": 681,
+    "time": 605,
+    "timeDay": 677,
     "timeWeek": 581,
     "timeMonth": 579,
     "timeYear": 604,
@@ -225,7 +225,7 @@
       "2024-04-19": 102,
       "2024-04-18": 151,
       "2024-04-17": 108,
-      "2024-04-16": 31
+      "2024-04-16": 16
     }
   }
 ]
