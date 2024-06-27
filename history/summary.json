@@ -54,17 +54,16 @@
     "slug": "dashboard-server",
     "status": "up",
     "uptime": "95.46%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "91.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "91.70%",
     "time": 635,
     "timeDay": 665,
     "timeWeek": 629,
     "timeMonth": 651,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2024-06-26": 8,
       "2024-06-24": 16,
       "2024-06-20": 31,
       "2024-06-17": 33,
@@ -149,17 +148,17 @@
     "slug": "q-bit-torrent-web-ui",
     "status": "up",
     "uptime": "91.97%",
-    "uptimeDay": "88.89%",
-    "uptimeWeek": "89.76%",
-    "uptimeMonth": "37.91%",
+    "uptimeDay": "89.47%",
+    "uptimeWeek": "89.84%",
+    "uptimeMonth": "38.15%",
     "uptimeYear": "85.80%",
     "time": 604,
-    "timeDay": 593,
+    "timeDay": 591,
     "timeWeek": 593,
     "timeMonth": 581,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2024-06-26": 159,
+      "2024-06-26": 151,
       "2024-06-25": 105,
       "2024-06-24": 180,
       "2024-06-23": 163,
@@ -224,7 +223,7 @@
       "2024-04-25": 1440,
       "2024-04-24": 1011,
       "2024-04-23": 156,
-      "2024-04-22": 206
+      "2024-04-22": 225
     }
   }
 ]
