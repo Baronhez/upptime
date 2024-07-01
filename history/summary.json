@@ -13,7 +13,7 @@
     "time": 460,
     "timeDay": 139,
     "timeWeek": 106,
-    "timeMonth": 105,
+    "timeMonth": 101,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2023-12-16": 25,
@@ -35,7 +35,7 @@
     "time": 934,
     "timeDay": 841,
     "timeWeek": 811,
-    "timeMonth": 815,
+    "timeMonth": 805,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2024-02-18": 1427,
@@ -61,7 +61,7 @@
     "time": 637,
     "timeDay": 727,
     "timeWeek": 731,
-    "timeMonth": 629,
+    "timeMonth": 628,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2024-06-24": 16,
@@ -137,7 +137,7 @@
     "time": 88,
     "timeDay": 66,
     "timeWeek": 50,
-    "timeMonth": 52,
+    "timeMonth": 50,
     "timeYear": 88,
     "dailyMinutesDown": {}
   },
@@ -148,17 +148,17 @@
     "slug": "q-bit-torrent-web-ui",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "92.20%",
-    "uptimeWeek": "91.14%",
-    "uptimeMonth": "94.50%",
+    "uptimeDay": "92.63%",
+    "uptimeWeek": "91.20%",
+    "uptimeMonth": "94.45%",
     "uptimeYear": "99.54%",
     "time": 603,
     "timeDay": 595,
-    "timeWeek": 575,
+    "timeWeek": 574,
     "timeMonth": 578,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2024-06-30": 112,
+      "2024-06-30": 106,
       "2024-06-29": 144,
       "2024-06-28": 81,
       "2024-06-27": 118,
@@ -175,7 +175,7 @@
       "2024-06-16": 251,
       "2024-06-15": 137,
       "2024-06-14": 121,
-      "2024-06-13": 70
+      "2024-06-13": 101
     }
   }
 ]
