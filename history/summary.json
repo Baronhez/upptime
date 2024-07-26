@@ -52,17 +52,17 @@
     "url": "https://flame.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
-    "status": "up",
+    "status": "down",
     "uptime": "95.52%",
-    "uptimeDay": "95.57%",
+    "uptimeDay": "95.56%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "96.88%",
     "uptimeYear": "91.44%",
-    "time": 643,
-    "timeDay": 649,
-    "timeWeek": 618,
-    "timeMonth": 646,
-    "timeYear": 647,
+    "time": 644,
+    "timeDay": 859,
+    "timeWeek": 658,
+    "timeMonth": 656,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2024-07-26": 64,
       "2024-07-14": 33,
@@ -154,9 +154,9 @@
     "slug": "q-bit-torrent-web-ui",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "89.29%",
-    "uptimeWeek": "88.59%",
-    "uptimeMonth": "93.42%",
+    "uptimeDay": "89.73%",
+    "uptimeWeek": "88.65%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.45%",
     "time": 598,
     "timeDay": 553,
@@ -164,7 +164,7 @@
     "timeMonth": 578,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2024-07-26": 81,
+      "2024-07-26": 75,
       "2024-07-25": 204,
       "2024-07-24": 192,
       "2024-07-23": 134,
@@ -182,7 +182,7 @@
       "2024-07-11": 174,
       "2024-07-10": 341,
       "2024-07-09": 202,
-      "2024-07-08": 22
+      "2024-07-08": 51
     }
   }
 ]
