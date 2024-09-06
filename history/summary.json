@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 84,
-    "timeWeek": 140,
+    "time": 382,
+    "timeDay": 124,
+    "timeWeek": 135,
     "timeMonth": 147,
-    "timeYear": 280,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2023-12-16": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.34%",
-    "time": 928,
-    "timeDay": 736,
-    "timeWeek": 840,
+    "time": 929,
+    "timeDay": 1176,
+    "timeWeek": 841,
     "timeMonth": 956,
-    "timeYear": 911,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2024-02-18": 1427,
       "2024-02-17": 1440,
@@ -57,10 +57,10 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "91.41%",
     "time": 638,
-    "timeDay": 615,
-    "timeWeek": 569,
+    "timeDay": 651,
+    "timeWeek": 572,
     "timeMonth": 608,
-    "timeYear": 646,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2024-09-06": 36,
       "2024-09-05": 44,
@@ -145,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 44,
-    "timeWeek": 67,
-    "timeMonth": 92,
+    "timeDay": 55,
+    "timeWeek": 58,
+    "timeMonth": 90,
     "timeYear": 83,
     "dailyMinutesDown": {}
   },
@@ -156,15 +156,15 @@
     "url": "https://qbittorrent.jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "85.51%",
-    "uptimeWeek": "85.65%",
+    "uptimeDay": "87.53%",
+    "uptimeWeek": "85.83%",
     "uptimeMonth": "94.06%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 593,
-    "timeDay": 558,
-    "timeWeek": 557,
+    "timeDay": 543,
+    "timeWeek": 558,
     "timeMonth": 559,
     "timeYear": 593,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
       "2024-08-25": 155,
       "2024-08-24": 208,
       "2024-08-23": 157,
-      "2024-07-30": 59
+      "2024-07-30": 31
     }
   }
 ]
