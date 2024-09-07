@@ -158,17 +158,17 @@
     "slug": "q-bit-torrent-web-ui",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "87.09%",
-    "uptimeWeek": "85.76%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "87.90%",
+    "uptimeWeek": "86.28%",
+    "uptimeMonth": "94.06%",
+    "uptimeYear": "99.49%",
     "time": 593,
     "timeDay": 545,
     "timeWeek": 558,
     "timeMonth": 559,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2024-09-06": 187,
+      "2024-09-06": 180,
       "2024-09-05": 202,
       "2024-09-04": 148,
       "2024-09-03": 202,
@@ -183,7 +183,7 @@
       "2024-08-25": 155,
       "2024-08-24": 208,
       "2024-08-23": 157,
-      "2024-07-30": 31
+      "2024-07-30": 59
     }
   }
 ]
