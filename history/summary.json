@@ -4,19 +4,19 @@
     "url": "https://jonthan.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jonthan.xyz.ico",
     "slug": "personal-web-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "88.51%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.96%",
     "time": 184,
-    "timeDay": 1993,
-    "timeWeek": 1248,
-    "timeMonth": 558,
+    "timeDay": 1780,
+    "timeWeek": 1170,
+    "timeMonth": 546,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-11-18": 166
+      "2025-11-18": 194
     }
   },
   {
@@ -61,7 +61,7 @@
     "timeMonth": 19007,
     "timeYear": 6591,
     "dailyMinutesDown": {
-      "2025-11-18": 977,
+      "2025-11-18": 1006,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -258,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2025-11-18": 977,
+      "2025-11-18": 1006,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
