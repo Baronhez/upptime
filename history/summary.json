@@ -11,9 +11,9 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.96%",
     "time": 185,
-    "timeDay": 218,
-    "timeWeek": 148,
-    "timeMonth": 554,
+    "timeDay": 77,
+    "timeWeek": 143,
+    "timeMonth": 562,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2025-11-18": 194
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.57%",
-    "time": 948,
-    "timeDay": 1114,
-    "timeWeek": 1049,
-    "timeMonth": 1083,
+    "time": 947,
+    "timeDay": 739,
+    "timeWeek": 1044,
+    "timeMonth": 1078,
     "timeYear": 990,
     "dailyMinutesDown": {
       "2025-11-18": 77,
@@ -50,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
     "status": "down",
-    "uptime": "83.94%",
+    "uptime": "83.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "56.50%",
-    "time": 4664,
-    "timeDay": 19659,
-    "timeWeek": 19618,
-    "timeMonth": 19621,
-    "timeYear": 7403,
+    "time": 4708,
+    "timeDay": 19629,
+    "timeWeek": 19635,
+    "timeMonth": 19618,
+    "timeYear": 7451,
     "dailyMinutesDown": {
-      "2025-11-30": 116,
+      "2025-12-01": 123,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -225,8 +226,7 @@
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
-      "2025-01-18": 690,
-      "2024-12-01": 1049
+      "2025-01-18": 690
     }
   },
   {
@@ -241,9 +241,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 127,
-    "timeDay": 196,
-    "timeWeek": 169,
-    "timeMonth": 330,
+    "timeDay": 82,
+    "timeWeek": 162,
+    "timeMonth": 331,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2025-11-18": 94
@@ -255,10 +255,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
     "status": "down",
-    "uptime": "70.49%",
+    "uptime": "70.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "7.35%",
     "time": 561,
     "timeDay": 0,
@@ -266,7 +266,8 @@
     "timeMonth": 0,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-11-30": 116,
+      "2025-12-01": 123,
+      "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -603,8 +604,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   }
 ]
