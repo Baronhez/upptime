@@ -11,9 +11,9 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.96%",
     "time": 185,
-    "timeDay": 223,
-    "timeWeek": 169,
-    "timeMonth": 565,
+    "timeDay": 121,
+    "timeWeek": 163,
+    "timeMonth": 563,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2025-11-18": 194
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.57%",
     "time": 951,
-    "timeDay": 1278,
-    "timeWeek": 1168,
-    "timeMonth": 1100,
+    "timeDay": 781,
+    "timeWeek": 1139,
+    "timeMonth": 1090,
     "timeYear": 992,
     "dailyMinutesDown": {
       "2025-11-18": 77,
@@ -50,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
     "status": "down",
-    "uptime": "83.73%",
+    "uptime": "83.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.13%",
-    "time": 4796,
-    "timeDay": 19823,
-    "timeWeek": 19649,
-    "timeMonth": 19621,
-    "timeYear": 7625,
+    "uptimeYear": "55.86%",
+    "time": 4840,
+    "timeDay": 19550,
+    "timeWeek": 19650,
+    "timeMonth": 19605,
+    "timeYear": 7699,
     "dailyMinutesDown": {
-      "2025-12-03": 107,
+      "2025-12-04": 108,
+      "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -243,9 +244,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 128,
-    "timeDay": 227,
-    "timeWeek": 183,
-    "timeMonth": 338,
+    "timeDay": 181,
+    "timeWeek": 175,
+    "timeMonth": 336,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2025-11-18": 94
@@ -257,7 +258,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
     "status": "down",
-    "uptime": "70.31%",
+    "uptime": "70.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -266,9 +267,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 559,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2025-12-03": 107,
+      "2025-12-04": 108,
+      "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -605,8 +607,7 @@
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
-      "2024-12-05": 1440,
-      "2024-12-04": 1440
+      "2024-12-05": 1440
     }
   }
 ]
