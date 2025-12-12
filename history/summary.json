@@ -11,10 +11,10 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.96%",
     "time": 186,
-    "timeDay": 85,
-    "timeWeek": 161,
-    "timeMonth": 564,
-    "timeYear": 219,
+    "timeDay": 103,
+    "timeWeek": 155,
+    "timeMonth": 563,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2025-11-18": 194
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.59%",
-    "time": 957,
-    "timeDay": 767,
-    "timeWeek": 1209,
-    "timeMonth": 1089,
+    "time": 956,
+    "timeDay": 804,
+    "timeWeek": 1126,
+    "timeMonth": 1076,
     "timeYear": 997,
     "dailyMinutesDown": {
       "2025-11-18": 77,
@@ -48,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
     "status": "down",
-    "uptime": "83.18%",
+    "uptime": "83.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.94%",
-    "time": 5148,
-    "timeDay": 19584,
-    "timeWeek": 19608,
+    "uptimeYear": "53.66%",
+    "time": 5192,
+    "timeDay": 19740,
+    "timeWeek": 19611,
     "timeMonth": 19614,
-    "timeYear": 8212,
+    "timeYear": 8287,
     "dailyMinutesDown": {
-      "2025-12-11": 111,
+      "2025-12-12": 110,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -249,10 +250,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 129,
-    "timeDay": 119,
-    "timeWeek": 162,
+    "timeDay": 153,
+    "timeWeek": 163,
     "timeMonth": 321,
-    "timeYear": 161,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2025-11-18": 94
     }
@@ -263,7 +264,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
     "status": "down",
-    "uptime": "69.83%",
+    "uptime": "69.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -272,9 +273,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 559,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2025-12-11": 111,
+      "2025-12-12": 110,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -611,8 +613,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   }
 ]
