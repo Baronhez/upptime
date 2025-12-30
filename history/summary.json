@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 188,
-    "timeDay": 172,
-    "timeWeek": 150,
-    "timeMonth": 164,
+    "timeDay": 95,
+    "timeWeek": 113,
+    "timeMonth": 159,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-11-18": 194
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 970,
-    "timeDay": 1302,
-    "timeWeek": 1062,
-    "timeMonth": 1185,
+    "timeDay": 820,
+    "timeWeek": 1018,
+    "timeMonth": 1175,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-11-18": 77,
@@ -48,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
     "status": "down",
-    "uptime": "81.97%",
+    "uptime": "81.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.00%",
-    "time": 5936,
-    "timeDay": 19583,
-    "timeWeek": 19597,
+    "uptimeYear": "48.73%",
+    "time": 5980,
+    "timeDay": 19650,
+    "timeWeek": 19574,
     "timeMonth": 19618,
-    "timeYear": 9536,
+    "timeYear": 9610,
     "dailyMinutesDown": {
-      "2025-12-29": 120,
+      "2025-12-30": 112,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -267,9 +268,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 133,
-    "timeDay": 187,
-    "timeWeek": 130,
-    "timeMonth": 163,
+    "timeDay": 87,
+    "timeWeek": 115,
+    "timeMonth": 160,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2025-11-18": 94
@@ -281,7 +282,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
     "status": "down",
-    "uptime": "68.78%",
+    "uptime": "68.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -292,7 +293,8 @@
     "timeMonth": 0,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-12-29": 120,
+      "2025-12-30": 112,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -629,8 +631,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   }
 ]
