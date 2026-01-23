@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 191,
-    "timeDay": 494,
-    "timeWeek": 192,
-    "timeMonth": 172,
+    "timeDay": 98,
+    "timeWeek": 186,
+    "timeMonth": 163,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-11-18": 194
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkding.jonthan.xyz.ico",
     "slug": "bookmark-manager",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 985,
-    "timeDay": 805,
-    "timeWeek": 1409,
-    "timeMonth": 1179,
+    "time": 986,
+    "timeDay": 1092,
+    "timeWeek": 1403,
+    "timeMonth": 1177,
     "timeYear": 1038,
     "dailyMinutesDown": {
       "2025-11-18": 77,
@@ -48,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
     "status": "down",
-    "uptime": "80.40%",
+    "uptime": "80.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "43.40%",
-    "time": 6988,
-    "timeDay": 19383,
+    "time": 7032,
+    "timeDay": 19483,
     "timeWeek": 19448,
-    "timeMonth": 19545,
-    "timeYear": 11130,
+    "timeMonth": 19534,
+    "timeYear": 11162,
     "dailyMinutesDown": {
-      "2026-01-22": 119,
+      "2026-01-23": 115,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -270,8 +271,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 407,
-      "2025-01-24": 589,
-      "2025-01-23": 1440
+      "2025-01-24": 589
     }
   },
   {
@@ -286,9 +286,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 138,
-    "timeDay": 180,
-    "timeWeek": 212,
-    "timeMonth": 168,
+    "timeDay": 148,
+    "timeWeek": 214,
+    "timeMonth": 167,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-11-18": 94
@@ -300,7 +300,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
     "status": "down",
-    "uptime": "67.42%",
+    "uptime": "67.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -311,7 +311,8 @@
     "timeMonth": 0,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2026-01-22": 119,
+      "2026-01-23": 115,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -648,8 +649,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   }
 ]
