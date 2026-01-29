@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 191,
-    "timeDay": 215,
-    "timeWeek": 211,
-    "timeMonth": 175,
+    "timeDay": 101,
+    "timeWeek": 154,
+    "timeMonth": 173,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-11-18": 194
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 991,
-    "timeDay": 1759,
-    "timeWeek": 1219,
-    "timeMonth": 1230,
+    "timeDay": 774,
+    "timeWeek": 1215,
+    "timeMonth": 1213,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2025-11-18": 77,
@@ -48,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
     "status": "down",
-    "uptime": "80.02%",
+    "uptime": "79.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.40%",
-    "time": 7251,
-    "timeDay": 19657,
-    "timeWeek": 19523,
-    "timeMonth": 19535,
-    "timeYear": 11523,
+    "uptimeYear": "42.12%",
+    "time": 7295,
+    "timeDay": 19528,
+    "timeWeek": 19544,
+    "timeMonth": 19533,
+    "timeYear": 11595,
     "dailyMinutesDown": {
-      "2026-01-28": 118,
+      "2026-01-29": 132,
+      "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -290,9 +291,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 140,
-    "timeDay": 237,
-    "timeWeek": 186,
-    "timeMonth": 181,
+    "timeDay": 130,
+    "timeWeek": 179,
+    "timeMonth": 179,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2025-11-18": 94
@@ -304,7 +305,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
     "status": "down",
-    "uptime": "67.09%",
+    "uptime": "67.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -313,9 +314,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 565,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2026-01-28": 118,
+      "2026-01-29": 132,
+      "2026-01-28": 1440,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -652,8 +654,7 @@
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
-      "2025-01-30": 1440,
-      "2025-01-29": 1440
+      "2025-01-30": 1440
     }
   }
 ]
