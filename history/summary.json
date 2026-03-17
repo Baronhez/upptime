@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 195,
-    "timeDay": 134,
+    "timeDay": 166,
     "timeWeek": 168,
-    "timeMonth": 175,
-    "timeYear": 230,
+    "timeMonth": 176,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2025-11-18": 194
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.58%",
-    "time": 1018,
-    "timeDay": 997,
-    "timeWeek": 1115,
-    "timeMonth": 1154,
-    "timeYear": 1095,
+    "time": 1020,
+    "timeDay": 1474,
+    "timeWeek": 1152,
+    "timeMonth": 1168,
+    "timeYear": 1096,
     "dailyMinutesDown": {
       "2026-03-03": 51,
       "2025-11-18": 77,
@@ -49,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
     "status": "down",
-    "uptime": "77.15%",
+    "uptime": "77.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "29.51%",
-    "time": 9045,
-    "timeDay": 19591,
-    "timeWeek": 16937,
+    "uptimeYear": "29.24%",
+    "time": 9089,
+    "timeDay": 19767,
+    "timeWeek": 19698,
     "timeMonth": 18275,
-    "timeYear": 14476,
+    "timeYear": 14549,
     "dailyMinutesDown": {
-      "2026-03-16": 159,
+      "2026-03-17": 144,
+      "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -338,9 +339,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 149,
-    "timeDay": 157,
+    "timeDay": 205,
     "timeWeek": 186,
-    "timeMonth": 164,
+    "timeMonth": 166,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2025-11-18": 94
@@ -352,7 +353,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
     "status": "down",
-    "uptime": "64.61%",
+    "uptime": "64.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -361,9 +362,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 583,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2026-03-16": 159,
+      "2026-03-17": 144,
+      "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -700,8 +702,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 1440,
-      "2025-03-17": 1440
+      "2025-03-18": 1440
     }
   }
 ]
