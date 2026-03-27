@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 195,
-    "timeDay": 75,
-    "timeWeek": 162,
-    "timeMonth": 175,
+    "time": 194,
+    "timeDay": 200,
+    "timeWeek": 146,
+    "timeMonth": 177,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2025-11-18": 194
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.58%",
     "time": 1026,
-    "timeDay": 1247,
-    "timeWeek": 1288,
-    "timeMonth": 1180,
-    "timeYear": 1106,
+    "timeDay": 1555,
+    "timeWeek": 1271,
+    "timeMonth": 1187,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2026-03-03": 51,
       "2025-11-18": 77,
@@ -49,16 +49,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/flame.jonthan.xyz.ico",
     "slug": "dashboard-server",
     "status": "up",
-    "uptime": "76.60%",
-    "uptimeDay": "52.67%",
-    "uptimeWeek": "7.52%",
-    "uptimeMonth": "9.69%",
-    "uptimeYear": "28.12%",
+    "uptime": "76.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "21.83%",
+    "uptimeMonth": "12.98%",
+    "uptimeYear": "28.40%",
     "time": 9251,
-    "timeDay": 464,
-    "timeWeek": 4572,
-    "timeMonth": 14175,
-    "timeYear": 14497,
+    "timeDay": 774,
+    "timeWeek": 2216,
+    "timeMonth": 13522,
+    "timeYear": 14446,
     "dailyMinutesDown": {
       "2026-03-25": 836,
       "2026-03-24": 1440,
@@ -325,8 +325,7 @@
       "2025-04-29": 1440,
       "2025-04-28": 778,
       "2025-03-29": 100,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -341,10 +340,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 151,
-    "timeDay": 198,
+    "timeDay": 214,
     "timeWeek": 173,
-    "timeMonth": 170,
-    "timeYear": 193,
+    "timeMonth": 173,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2025-11-18": 94
     }
@@ -355,7 +354,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/qbittorrent.jonthan.xyz.ico",
     "slug": "q-bit-torrent-web-ui",
     "status": "down",
-    "uptime": "64.11%",
+    "uptime": "64.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -366,7 +365,8 @@
     "timeMonth": 0,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2026-03-26": 155,
+      "2026-03-27": 157,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -703,8 +703,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   }
 ]
