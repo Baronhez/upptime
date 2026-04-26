@@ -7,12 +7,8 @@ sites:
     url: https://jonthan.xyz
   - name: Bookmark Manager
     url: https://linkding.jonthan.xyz
-  - name: Dashboard Server
-    url: https://flame.jonthan.xyz
   - name: Personal Blog
     url: https://blog.jonthan.xyz
-  - name: QBitTorrent webUI
-    url: https://qbittorrent.jonthan.xyz
  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
