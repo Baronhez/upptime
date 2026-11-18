@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 204,
-    "timeDay": 413,
-    "timeWeek": 331,
-    "timeMonth": 264,
+    "timeDay": 150,
+    "timeWeek": 315,
+    "timeMonth": 262,
     "timeYear": 212,
-    "dailyMinutesDown": {
-      "2025-11-18": 194
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bookmark Manager",
@@ -25,20 +23,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/linkding.jonthan.xyz.ico",
     "slug": "bookmark-manager",
     "status": "down",
-    "uptime": "86.54%",
+    "uptime": "86.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.88%",
-    "time": 1403,
-    "timeDay": 658,
-    "timeWeek": 691,
-    "timeMonth": 720,
-    "timeYear": 1492,
+    "uptimeYear": "44.61%",
+    "time": 1402,
+    "timeDay": 809,
+    "timeWeek": 690,
+    "timeMonth": 725,
+    "timeYear": 1491,
     "dailyMinutesDown": {
-      "2025-11-18": 77,
       "2026-03-03": 51,
-      "2026-11-17": 420,
+      "2026-11-18": 385,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -254,12 +252,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 197,
-    "timeDay": 224,
-    "timeWeek": 280,
-    "timeMonth": 239,
+    "timeDay": 200,
+    "timeWeek": 265,
+    "timeMonth": 237,
     "timeYear": 177,
-    "dailyMinutesDown": {
-      "2025-11-18": 94
-    }
+    "dailyMinutesDown": {}
   }
 ]
